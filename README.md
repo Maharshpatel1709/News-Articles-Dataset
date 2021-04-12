@@ -1,1 +1,2 @@
-# News-Articles-Dataset
+# Web scraping News Articles
+The challenge of preparing a huge dataset of 4000 articles was achieved using web scraping. There are a variety of news articles available on Google News. To effectively harvest that data, libraries like Beautifulsoup, newspaper, nltk, etc were used. Google News provides a continuous flow of links to articles organized by thousands of publishers and magazines. Web scraped data from Google News is made of various themes such as technology, business, entertainment, sports, world, health, science and many more. Out of 4000 articles, there are around 500-600 articles confined under the theme of mobile technology.
